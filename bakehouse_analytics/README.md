@@ -19,6 +19,8 @@ To deploy and manage this bundle, follow these steps:
 - Use the **Add** dropdown to add resources to the bundle.
 - Click **Schedule** on a notebook within the bundle to create a **job definition** that schedules the notebook.
 
+- Added some patch
+
 ## Documentation
 
 - For information on using **Declarative Automation Bundles in the workspace**, see: [Declarative Automation Bundles in the workspace](https://docs.databricks.com/aws/en/dev-tools/bundles/workspace-bundles)
