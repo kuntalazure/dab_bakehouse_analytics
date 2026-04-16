@@ -14,7 +14,7 @@ resources:
           webhook_notifications: {}
       parameters:
         - name: catalog
-          default: bakehouse_analytics_dev
+          default: ${var.catalog}
         - name: schema
           default: rnd
       email_notifications:
