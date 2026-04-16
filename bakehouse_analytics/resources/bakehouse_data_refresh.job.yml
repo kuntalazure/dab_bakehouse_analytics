@@ -11,9 +11,9 @@ resources:
         #  interval: 1
         #  unit: DAYS
         schedule:
-        quartz_cron_expression: "55 0 14 ? * Thu" # Changes to 12:00 PM daily
-        timezone_id: "UTC"
-        pause_status: "UNPAUSED"
+          quartz_cron_expression: "55 0 14 ? * Thu" # Changes to 12:00 PM daily
+          timezone_id: "UTC"
+          pause_status: "UNPAUSED"
 
       #email_notifications:
       #  on_failure:
